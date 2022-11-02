@@ -10,7 +10,9 @@ function App() {
           hello world!<br></br> Im Gustavo, software engineer 
         </p>
         <Button />
-        <Card />
+        <Card title='titulo card 1' />
+        <Card title='titulo card 2' />
+        <Card title='titulo card 3' />
       </header>
     </div>
   );
