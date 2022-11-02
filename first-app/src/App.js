@@ -1,5 +1,6 @@
 import './App.css';
 import Button from './components/button/button';
+import Card from './components/card/card'
 
 function App() {
   return (
@@ -9,14 +10,7 @@ function App() {
           hello world!<br></br> Im Gustavo, software engineer 
         </p>
         <Button />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Card />
       </header>
     </div>
   );
