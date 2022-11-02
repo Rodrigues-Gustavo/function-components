@@ -18,12 +18,12 @@ function App() {
         <Card>
             <h3>titulo card 2</h3>
             <p>esse é um texto do card 2</p>
-            <button className='btn'>Outro</button>
+            <button className='btn'>outros</button>
         </Card>
         <Card>
             <h3>titulo card 3</h3>
             <p>esse é um texto do card 3</p>
-            <button className='btn'>Cancelar</button>
+            <button className='btn'>cancelar</button>
         </Card>
       </header>
     </div>
